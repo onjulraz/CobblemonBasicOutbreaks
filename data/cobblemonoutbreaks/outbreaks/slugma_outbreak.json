@@ -1,0 +1,16 @@
+{
+  "species": "slugma",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:nether",
+"minecraft:mesa",
+"minecraft:volcano",
+"minecraft:warm",
+"minecraft:mountains"
+  ],
+  "leash_range": 24
+}

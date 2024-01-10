@@ -1,0 +1,16 @@
+{
+  "species": "zapdos",
+  "min_pokemon_level": 70,
+  "max_pokemon_level": 70,
+  "waves": 1,
+  "spawns_per_wave": 1,
+  "spawn_range": 40,
+  "biome": [
+"minecraft:mountains",
+"minecraft:jagged_peaks",
+"minecraft:extreme_hills",
+"minecraft:stone_shore",
+"minecraft:plateau"
+  ],
+  "leash_range": 40
+}
