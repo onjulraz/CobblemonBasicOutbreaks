@@ -1,7 +1,7 @@
 # CobblemonBasicOutbreaks
-This datapack adds biomes to the Outbreaks in Cobblemon Mass Outbreaks by scouter567. Props to chatgpt for the assistance.
+This datapack adds biomes to the Outbreaks in Cobblemon Mass Outbreaks by scouter567. 
 
-This datapack adds biomes to the Outbreaks in Cobblemon Mass Outbreaks by scouter567. Props to chatgpt for the assistance.
+https://www.curseforge.com/minecraft/mc-mods/cobblemon-mass-outbreaks
 
 You can edit any of the pokemon by navigating to 
 ...Cobblemon Outbreaks Basic Forms\data\cobblemonoutbreaks\outbreaks
