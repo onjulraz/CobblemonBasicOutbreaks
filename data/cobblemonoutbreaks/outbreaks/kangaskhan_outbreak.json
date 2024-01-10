@@ -1,0 +1,21 @@
+{
+  "species": "kangaskhan",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:plains",
+"minecraft:mesa",
+"minecraft:mountains",
+"minecraft:flower_forest",
+"minecraft:meadow",
+"minecraft:edge",
+"minecraft:jungle",
+"minecraft:mega",
+"minecraft:birch",
+"minecraft:grove"
+  ],
+  "leash_range": 24
+}

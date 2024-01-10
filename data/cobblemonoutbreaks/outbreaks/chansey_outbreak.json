@@ -1,0 +1,21 @@
+{
+  "species": "chansey",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:plains",
+"minecraft:flower_forest",
+"minecraft:meadow",
+"minecraft:lush_caves",
+"minecraft:mega",
+"minecraft:river",
+"minecraft:birch",
+"minecraft:taiga",
+"minecraft:ice_plains",
+"minecraft:beach"
+  ],
+  "leash_range": 24
+}

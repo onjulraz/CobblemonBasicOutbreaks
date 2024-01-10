@@ -1,0 +1,18 @@
+{
+  "species": "cubone",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:plains",
+"minecraft:forest",
+"minecraft:flower_forest",
+"minecraft:meadow",
+"minecraft:edge",
+"minecraft:nether",
+"minecraft:soulsand_valley"
+  ],
+  "leash_range": 24
+}

@@ -1,0 +1,16 @@
+{
+  "species": "beldum",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:mountains",
+"minecraft:extreme_hills",
+"minecraft:jagged_peaks",
+"minecraft:stone_shore",
+"minecraft:the_end"
+  ],
+  "leash_range": 24
+}

@@ -1,0 +1,16 @@
+{
+  "species": "bonsly",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 10,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:plains",
+"minecraft:flower_forest",
+"minecraft:meadow",
+"minecraft:jungle",
+"minecraft:edge"
+  ],
+  "leash_range": 24
+}
