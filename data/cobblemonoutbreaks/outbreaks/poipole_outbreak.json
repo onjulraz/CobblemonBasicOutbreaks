@@ -1,0 +1,16 @@
+{
+  "species": "poipole",
+  "min_pokemon_level": 70,
+  "max_pokemon_level": 70,
+  "waves": 1,
+  "spawns_per_wave": 1,
+  "spawn_range": 40,
+  "biome": [
+"minecraft:nether",
+"minecraft:nether_wastes",
+"minecraft:soulsand_valley",
+"minecraft:spawn_ghast",
+"minecraft:spawn_magma_cubes"
+  ],
+  "leash_range": 40
+}

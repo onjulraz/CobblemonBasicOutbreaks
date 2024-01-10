@@ -1,0 +1,16 @@
+{
+  "species": "rayquaza",
+  "min_pokemon_level": 70,
+  "max_pokemon_level": 70,
+  "waves": 1,
+  "spawns_per_wave": 1,
+  "spawn_range": 40,
+  "biome": [
+"minecraft:the_end",
+"minecraft:end_highlands",
+"minecraft:end_midlands",
+"minecraft:end_barrens",
+"minecraft:end"
+  ],
+  "leash_range": 40
+}

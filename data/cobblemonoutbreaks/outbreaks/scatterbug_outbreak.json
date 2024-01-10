@@ -1,0 +1,16 @@
+{
+  "species": "scatterbug",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:plains",
+"minecraft:flower_forest",
+"minecraft:meadow",
+"minecraft:bamboo",
+"minecraft:edge"
+  ],
+  "leash_range": 24
+}

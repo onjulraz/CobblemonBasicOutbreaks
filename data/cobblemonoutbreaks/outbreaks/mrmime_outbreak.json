@@ -1,0 +1,21 @@
+{
+  "species": "mrmime",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:plains",
+"minecraft:flower_forest",
+"minecraft:meadow",
+"minecraft:edge",
+"minecraft:birch",
+"minecraft:jungle",
+"minecraft:mega",
+"minecraft:swamp",
+"minecraft:lush_caves",
+"minecraft:deep"
+  ],
+  "leash_range": 24
+}

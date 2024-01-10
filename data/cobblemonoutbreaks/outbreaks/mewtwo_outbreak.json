@@ -1,0 +1,16 @@
+{
+  "species": "mewtwo",
+  "min_pokemon_level": 70,
+  "max_pokemon_level": 70,
+  "waves": 1,
+  "spawns_per_wave": 1,
+  "spawn_range": 40,
+  "biome": [
+"minecraft:plains",
+"minecraft:flower_forest",
+"minecraft:meadow",
+"minecraft:edge",
+"minecraft:the_end"
+  ],
+  "leash_range": 40
+}

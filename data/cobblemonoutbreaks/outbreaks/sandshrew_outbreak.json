@@ -1,0 +1,16 @@
+{
+  "species": "sandshrew",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 70,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:desert",
+"minecraft:warm",
+"minecraft:mesa",
+"minecraft:plateau",
+"minecraft:extreme_hills"
+  ],
+  "leash_range": 24
+}

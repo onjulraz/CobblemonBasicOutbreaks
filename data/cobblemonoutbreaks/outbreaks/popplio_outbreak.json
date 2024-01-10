@@ -1,0 +1,16 @@
+{
+  "species": "popplio",
+  "min_pokemon_level": 1,
+  "max_pokemon_level": 20,
+  "waves": 5,
+  "spawns_per_wave": 3,
+  "spawn_range": 30,
+  "biome": [
+"minecraft:ocean",
+"minecraft:beach",
+"minecraft:river",
+"minecraft:swamp",
+"minecraft:deep"
+  ],
+  "leash_range": 24
+}
