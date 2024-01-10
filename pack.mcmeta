@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": "Basic Form Expansion for Cobblemon Outbreaks added by onjulraz"}
+
+  "filter": {
+    "block": [
+	{
+     	"namespace": "cobblemonoutbreaks",
+      	"path": ".*"
+	},
+	]
+  }
+}
